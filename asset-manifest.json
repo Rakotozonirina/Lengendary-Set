@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/https//Rakotozonirina.github.io/Lengendary-Set/static/css/main.c2cab247.css",
+    "main.js": "/https//Rakotozonirina.github.io/Lengendary-Set/static/js/main.9fadf1ab.js",
+    "index.html": "/https//Rakotozonirina.github.io/Lengendary-Set/index.html",
+    "main.c2cab247.css.map": "/https//Rakotozonirina.github.io/Lengendary-Set/static/css/main.c2cab247.css.map",
+    "main.9fadf1ab.js.map": "/https//Rakotozonirina.github.io/Lengendary-Set/static/js/main.9fadf1ab.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c2cab247.css",
+    "static/js/main.9fadf1ab.js"
+  ]
+}
