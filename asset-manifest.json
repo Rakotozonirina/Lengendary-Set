@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/https//Rakotozonirina.github.io/Lengendary-Set/static/css/main.c2cab247.css",
-    "main.js": "/https//Rakotozonirina.github.io/Lengendary-Set/static/js/main.9fadf1ab.js",
+    "main.css": "/https//Rakotozonirina.github.io/Lengendary-Set/static/css/main.e8900686.css",
+    "main.js": "/https//Rakotozonirina.github.io/Lengendary-Set/static/js/main.3ed416a2.js",
     "index.html": "/https//Rakotozonirina.github.io/Lengendary-Set/index.html",
-    "main.c2cab247.css.map": "/https//Rakotozonirina.github.io/Lengendary-Set/static/css/main.c2cab247.css.map",
-    "main.9fadf1ab.js.map": "/https//Rakotozonirina.github.io/Lengendary-Set/static/js/main.9fadf1ab.js.map"
+    "main.e8900686.css.map": "/https//Rakotozonirina.github.io/Lengendary-Set/static/css/main.e8900686.css.map",
+    "main.3ed416a2.js.map": "/https//Rakotozonirina.github.io/Lengendary-Set/static/js/main.3ed416a2.js.map"
   },
   "entrypoints": [
-    "static/css/main.c2cab247.css",
-    "static/js/main.9fadf1ab.js"
+    "static/css/main.e8900686.css",
+    "static/js/main.3ed416a2.js"
   ]
 }
